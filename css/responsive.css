@@ -1,0 +1,58 @@
+@media (max-width:575px) {
+    #banner-part .banner #header-part .logo a img {
+        height: 100px;
+    }
+    #banner-part .banner #header-part {
+        margin-top: 50px;
+    }
+    #banner-part .banner #header-part .title .img {
+        margin-top: -45px;
+    }
+    #banner-part .banner #header-part .title .text h3 {
+        font-size: 24px;
+        word-spacing: 0;
+    }
+    #banner-part .banner #form-part .apply-form {
+        margin-top: 10px;
+    }
+    #banner-part .banner #form-part .apply-form input {
+        margin-top: 20px;
+    }
+    #banner-part .banner {
+        height: 190%;
+    }
+    #banner-part .banner #form-part .apply-form .captcha {
+        top: 67%;
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    #banner-part .banner #header-part .logo a img {
+        height: 140px;
+    }
+    #banner-part .banner #header-part .title {
+        height: 220px;
+    }
+    #banner-part .banner #header-part .title .text h3 {
+        font-size: 24px;
+        word-spacing: 3px;
+    }
+    #banner-part .banner #form-part .apply-form {
+        margin-top: 10px;
+    }
+    #banner-part .banner #form-part .apply-form input {
+        margin-top: 20px;
+    }
+    #banner-part .banner {
+        height: 150%;
+    }
+    #banner-part .banner #form-part .apply-form .captcha {
+        top: 67%;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    #banner-part .banner {
+        height: 103%;
+    }
+}
